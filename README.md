@@ -1,0 +1,1 @@
+Esta aplicacion se realizo con el fin de dar solucion a distintas problematicas que se presentan en distintas empresas a nivel mundial con el fin de ofrecer una soluccion 100% medible y viable en lo largo del tiempo.
